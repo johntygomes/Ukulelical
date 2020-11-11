@@ -9722,4 +9722,4 @@ btn_for_single_mode=Button(frame_chord,text='piano mode',command=pianomode)
 btn_for_single_mode.place(x=1100,y=50,height=40,width=85)
 btn_for_piano_mode=Button(frame_chord,text='composer',command=singlemode)
 btn_for_piano_mode.place(x=1100,y=5,height=40,width=85)
-input()
+
